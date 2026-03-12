@@ -7,9 +7,8 @@ try:
     item = input("Enter article Name: ")
     price = float(input("Enter Item Price:" ))
     amount = int(input("Quantity of Items Sold: "))
-
-    if price ==float and amount ==int:
-        sales(price, amount)
+    
+    sales(price, amount)
         
 except:
     print("Pleace enter numeric values in Price and Quality")
