@@ -2,11 +2,17 @@
 
 This is a system designed for a business; its main function is to create a record of the items sold and their price, ordering them by quantity and the total cost of each sale.
 
-For now, this program is only executable via the Console.
+# Characteristics
+- Simple and Clear data empty
+- Accurate price Calculation
+- Organized and easy-to-understand billing
+- Executablke from Console
 
-It's quite simple to use: first, enter the name of the product sold, then the quantity, and finally the price. The program will then allow you to choose whether you want to continue registering more products or if you want to record. Once all sales have been recorded, it will display a summary with the names of the items, quantities, prices, and finally the total sale amount.
+# Technologies used
+- Python
+<img src= "https://images.icon-icons.com/2699/PNG/512/python_vertical_logo_icon_168039.png" width="200" height="200">
 
-The program was created in "Visual Studio Code" using Python as the programming language. 
+*Program produced by:* Nelson-B26
+*email:* nelbalvin2005@gmail.com
 
-Program produced by: Nelson Enrique Balvin Benavides
-email: nelbalvin2005@gmail.com
+<img src= "<img width="328" height="1021" alt="imagen" src="https://github.com/user-attachments/assets/1f1568b2-348e-4705-a8ec-ab74859adc3b" />"
