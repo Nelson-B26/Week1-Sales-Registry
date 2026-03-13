@@ -15,4 +15,4 @@ This is a system designed for a business; its main function is to create a recor
 *Program produced by:* Nelson-B26
 *email:* nelbalvin2005@gmail.com
 
-<img src= "<img width="328" height="1021" alt="imagen" src="https://github.com/user-attachments/assets/1f1568b2-348e-4705-a8ec-ab74859adc3b" />"
+<img src= "https://github.com/user-attachments/assets/1f1568b2-348e-4705-a8ec-ab74859adc3b" width="328" height="1021" alt="imagen">
